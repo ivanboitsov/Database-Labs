@@ -7,7 +7,7 @@
 5. Попытаться сформулировать запросы к медицинской БД.
 
 
-   ![image](https://github.com/ivanboitsov/DataBase_lab1/assets/118753603/378faa1c-208a-48b7-ac97-76db1e60e4bb)
+![Uploading image.png…]()
    
    
 В папке с SQL-файлами вы можете найти: 
