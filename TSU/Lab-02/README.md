@@ -56,7 +56,7 @@ VII. Уметь строить SQL-запросы на диалекте выбр
 
 ### Деловая модель
 
-  ![image](https://github.com/ivanboitsov/DataBase_lab2/assets/118753603/d25b59e8-035e-4757-a0ba-bc5375774190)
+  ![image](https://github.com/user-attachments/assets/9fd78511-ecaf-45a4-a689-65aabb25b99e)
 
 ---
 <a id="3"></a>
@@ -64,7 +64,7 @@ VII. Уметь строить SQL-запросы на диалекте выбр
 
 ### ER - схема
 
-  ![image](https://github.com/ivanboitsov/DataBase_lab2/assets/118753603/c10c43a6-e464-45f2-8795-bdddf8e43513)
+ ![image](https://github.com/user-attachments/assets/84e379a8-7cd4-4ca6-a366-bb530b0c84c3)
 
 ---
 <a id="4"></a>
@@ -74,8 +74,8 @@ VII. Уметь строить SQL-запросы на диалекте выбр
 
   Схемы отношений:
 
-![image](https://github.com/ivanboitsov/DataBase_lab2/assets/118753603/98cc1b5c-922e-4d09-aeec-13cd8b0f8da4)
+![image](https://github.com/user-attachments/assets/c7e8da29-eb6f-4cf8-bad4-357dd699f39d)
 
-![image](https://github.com/ivanboitsov/DataBase_lab2/assets/118753603/bd5d975b-2e98-4293-bf1b-9c866287d448)
+![image](https://github.com/user-attachments/assets/54911534-3152-4e13-9514-52bafb5e8071)
 
-![image](https://github.com/ivanboitsov/DataBase_lab2/assets/118753603/4669df6b-fb31-45e1-b54d-6370c0ece652)
+![image](https://github.com/user-attachments/assets/55db1a30-7108-4b93-9cb1-61ec95b093d7)
