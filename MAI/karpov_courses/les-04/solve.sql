@@ -131,7 +131,7 @@ ORDER BY courier_id asc
 SELECT *
 FROM   user_actions
 WHERE  action = 'cancel_order'
-   and time between '2022-08-01'
+   and time between '2022-07-30'
    and '2022-09-01'
    and date_part('dow', time) = 3
    and date_part('hour', time) >= 12
