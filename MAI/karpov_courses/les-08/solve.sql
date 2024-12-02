@@ -1,6 +1,7 @@
 --Task 1
 
 --Объедините таблицы user_actions и users по ключу user_id
+
 SELECT user_actions.user_id as user_id_left,
        users.user_id as user_id_right,
        order_id,
@@ -15,6 +16,7 @@ ORDER BY user_id
 --Task 2
 
 --посчитать количество уникальных id в объединённой таблице
+
 SELECT count(distinct user_id_left) as users_count
 FROM   (SELECT user_actions.user_id as user_id_left,
                users.user_id as user_id_right,
@@ -245,8 +247,6 @@ ORDER BY user_id limit 1000
 --По данным таблиц orders, products и user_actions посчитайте ежедневную выручку сервиса. 
 --Под выручкой будем понимать стоимость всех реализованных товаров, содержащихся в заказах.
 
-
---Вариант верного решения:
 
 SELECT date(creation_time) as date,
        sum(price) as revenue
